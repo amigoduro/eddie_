@@ -6,7 +6,7 @@ else:
     
         print("Sorry better luck luck next year")
     
-
+ 
 
 weight = int(input("Enter Your Weigth"))
 if weight>=50:
