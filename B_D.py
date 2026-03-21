@@ -2,7 +2,7 @@ print("Criteria Check For B.Donation")
 age = int(input("Enter Your Age"))
 if age>=18:
     print("Step 1 Check...")   
-else:
+else:  
       
         print("Sorry better luck luck next year")
     
