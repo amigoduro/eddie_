@@ -14,4 +14,4 @@ if weight>=50:
     print("You can donate the blood")
 else:
         print("You are out of weight")
-    
+       
