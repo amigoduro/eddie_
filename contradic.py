@@ -6,7 +6,7 @@ print("x\t sin(x)\t cos(x)\t tan(x)")
 
 while x <= 10:
     
-    sin_x = math.sin(x)
+    sin_x = math.sin(x)    
     cos_x = math.cos(x)   
     tan_x = math.tan(x)
  
