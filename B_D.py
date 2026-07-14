@@ -4,7 +4,7 @@ if age>=18:
     print("Step 1 Check...")   
 else:  
       
-        print("Sorry better luck luck next year")
+        print("Sorry better luck luck next    year")
      
 
 weight = int(input("Enter Your Weigth"))
