@@ -1,6 +1,6 @@
 import math
 
-x = 0
+x = 0   
 
 print("x\t sin(x)\t cos(x)\t tan(x)")
 
