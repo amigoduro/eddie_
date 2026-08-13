@@ -12,5 +12,5 @@ while x <= 10:
     
     print(round(x, 1), "\t", round(sin_x, 4), "\t", round(cos_x, 4), "\t", round(tan_x, 4))
 
-    
+      
     x = x + 0.2
